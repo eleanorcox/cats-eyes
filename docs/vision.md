@@ -14,7 +14,7 @@ It is also Eleanor's project for learning **generative 3D**: building a world fr
 
 ## What it is like
 
-- **You are the passenger.** Someone else is driving. You look out through the windscreen, feel every bump, and perhaps can turn to look at the driver.
+- **You are the passenger.** Someone else is driving. You look out through the windscreen and feel every bump. Now and then the view might drift to the side window, or to the driver.
 - **Mostly spooky.** Few cars, a lot of dark, things half-seen at the edge of the headlights. Not horror: the unease of a lonely road at night.
 - **The road goes on for ever** and never repeats: back roads and country lanes, bends, rises, roundabouts, roadworks, the occasional village, and now and then a strange one.
 - **The light comes from cars.** Your headlights, and sometimes the car in front, whose headlights throw a wedge of light across the trees ahead of it. Oncoming headlights now and then. Beyond them, black, or barely there under a moon or a flash of lightning.
@@ -24,8 +24,8 @@ It is also Eleanor's project for learning **generative 3D**: building a world fr
 
 ## Who it is for
 
-Someone who wants to sit and watch, as a piece to leave running or to project large. As a passenger you do not steer; what, if anything, you can do is an [open question](open-questions.md).
+Someone who wants to sit and watch, as a piece to leave running or to project large. It is a passive visual: there are no controls while it plays.
 
 ## What it is not
 
-Not a driving game: no steering, no score, no crashes, no destination.
+Not a game: no steering, no controls, no score, no crashes, no destination.

@@ -23,7 +23,7 @@ Every idea so far, each with the smallest version worth building. Sizes are roug
 | Kinds of vehicle | M | the car in front |
 | Oncoming cars | S | headlights |
 | People in the cars | M | the car in front |
-| Inside the car, and turning to see the driver | M | being driven |
+| Inside the car, and glancing at the driver | M | being driven |
 | Fog, rain and lightning storms | M | headlights |
 | Sound and music | S, then M | being driven |
 | Projected as an installation | S | most of the above |
@@ -116,9 +116,9 @@ Now and then, a glow over a rise, then headlights, then gone. Rare: it is mostly
 
 Someone visible at the wheel of a passing car, lit by its dashboard. A passenger, a dog, a stack of boxes. Simple and suggestive rather than detailed.
 
-## Inside the car, and turning to see the driver
+## Inside the car, and glancing at the driver
 
-From the passenger seat: the dashboard's glow, the windscreen's edges, the rear-view mirror showing the dark road behind. Perhaps you can turn your head and see the driver, lit by the dashboard. Who the driver is (someone you know, a stranger, nobody) could do a lot for the mood.
+From the passenger seat: the dashboard's glow, the windscreen's edges, the rear-view mirror showing the dark road behind. Now and then the view turns by itself, as a passenger's head would: out of the side window, or to the driver, lit by the dashboard. Who the driver is (someone you know, a stranger, nobody) could do a lot for the mood.
 
 ## Fog, rain and lightning storms
 
@@ -126,7 +126,7 @@ Mist in the dips that the headlights turn into a white wall; rain on the windscr
 
 ## Sound and music
 
-The engine's hum, tyres on wet or dry road, rain, the indicator ticking at a roundabout. A radio that drifts between stations. Perhaps the drive reacts to music: the weather, speed or the light following it. [Gloaming](../../gloaming/docs/ideas.md) also wants to respond to sound, so what is learned in one helps the other.
+The engine's hum, tyres on wet or dry road, rain, the indicator ticking at a roundabout. A radio that drifts between stations. Perhaps the drive reacts to music playing in the room or on its radio: the weather, speed or the light following it. Nobody controls it; it only listens. [Gloaming](../../gloaming/docs/ideas.md) also wants to respond to sound, so what is learned in one helps the other.
 
 ## Projected as an installation
 

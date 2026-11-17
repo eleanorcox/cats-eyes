@@ -32,6 +32,7 @@ Template:
 | [1](#1-working-name-cats-eyes) | Working name: Cat's Eyes | 17 Nov 2026 | Decided |
 | [2](#2-the-road-is-planned-ahead-of-being-drawn) | The road is planned ahead of being drawn | 17 Nov 2026 | Proposed |
 | [3](#3-seen-from-the-passenger-seat) | Seen from the passenger seat | 17 Nov 2026 | Decided |
+| [4](#4-a-passive-visual) | A passive visual | 17 Nov 2026 | Decided |
 
 ## 1. Working name: Cat's Eyes
 
@@ -59,3 +60,12 @@ Template:
 - **Decision:** The view is from the passenger seat. Someone else drives; you watch.
 - **Alternatives considered:** The driver's seat. Lost because it invites steering, which turns it into a driving game, and loses the driver as a character.
 - **What follows from it:** "Watch or drive" becomes "what can the passenger do". The driver becomes something to design (open question 5). The camera sits on the left of the car.
+
+## 4. A passive visual
+
+- **Date:** 17 November 2026
+- **Status:** Decided
+- **What prompted it:** After the passenger-seat decision, the open question was what the passenger could do: look around, turn to the driver, change the radio. Eleanor said it is only to be watched.
+- **Decision:** No controls while it plays. Anything that varies (the seed, perhaps the weather) is set before it starts.
+- **Alternatives considered:** Letting the viewer look around or change the radio. Lost: it is meant to be watched, like the view from a passenger seat.
+- **What follows from it:** Glances to the side window or the driver, if any, happen by themselves. Reacting to music means listening, not being controlled. It suits leaving running and projecting.

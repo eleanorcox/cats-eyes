@@ -7,8 +7,8 @@ How we work, git, writing and subagent rules are shared by all the projects and 
 ## Rules that already hold
 
 - **The road is planned before it is drawn.** The core generates a plan of the road ahead (its shape, junctions, villages, hazards) from a seed, well beyond what the headlights can see. Signs, scenery and other cars are placed from that plan, never invented at draw time. The same seed always gives the same road.
-- **Signs tell the truth.** A warning sign always matches what is actually coming up, at a sensible distance before it. This is tested.
-- **Signs tell the truth about the road, not about geography.** Place names are real UK names deliberately mixed up; the hazards, junctions and exits they show are always real.
+- **It is only watched.** A passive visual: no controls while it plays. Settings, if any, are chosen before it starts (in the link, say).
+- **Signs tell the truth about the road, not about geography.** A warning sign always matches what is actually coming up, at a sensible distance before it, and direction signs show a junction's real exits; this is tested. The place names on them are real UK names, deliberately mixed up.
 - **British.** Driving on the left, British signs, hedgerows not fences. Facts about British roads and signs (distances, which sign means what) are labelled unchecked until sourced.
 
 ## Commands
