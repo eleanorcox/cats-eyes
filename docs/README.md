@@ -4,7 +4,7 @@ Planning notes for Cat's Eyes. Started 17 November 2026; nothing here is final e
 
 Read in this order:
 
-1. [Vision](vision.md): what the project is and where it comes from.
+1. [Vision](vision.md): what the project is and where it comes from. Eleanor's [first notes](first-notes.md) are kept as written.
 2. [Ideas](ideas.md): every idea so far, each scoped to its smallest useful version.
 3. [Open questions](open-questions.md): decisions that are still Eleanor's to make.
 4. [Decision log](decisions.md): what was decided, when, what prompted it and what it replaced.

@@ -1,6 +1,6 @@
 # Cat's Eyes
 
-A drive that never ends. You sit in a car at night on British country lanes, and the road, hedges, trees, villages and signs are generated as you go, lit only by your headlights. Now and then another car passes, someone at the wheel; mostly it is just you and the road.
+A drive that never ends. You sit in the passenger seat at night on British back roads, and the road, hedges, trees, villages and signs are generated as you go, lit mostly by headlights. Sometimes you follow another car until it turns off; now and then one comes the other way. Mostly it is just you, the driver and the dark.
 
 Cat's Eyes is a working name, after the reflective studs down the middle of British roads.
 

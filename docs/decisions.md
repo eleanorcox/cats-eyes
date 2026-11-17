@@ -31,6 +31,7 @@ Template:
 | --- | --- | --- | --- |
 | [1](#1-working-name-cats-eyes) | Working name: Cat's Eyes | 17 Nov 2026 | Decided |
 | [2](#2-the-road-is-planned-ahead-of-being-drawn) | The road is planned ahead of being drawn | 17 Nov 2026 | Proposed |
+| [3](#3-seen-from-the-passenger-seat) | Seen from the passenger seat | 17 Nov 2026 | Decided |
 
 ## 1. Working name: Cat's Eyes
 
@@ -49,3 +50,12 @@ Template:
 - **Decision:** A generator produces a plan of the road from a seed, well ahead of the car. Signs, scenery and other cars are placed from the plan. The plan has no drawing code in it, so it can be tested on its own, and the same seed always gives the same road (the shared determinism rule).
 - **Alternatives considered:** Generating the road just in front of the camera as it is drawn. Simpler at first, but nothing could look ahead, so signs could not be truthful.
 - **What follows from it:** The road plan is the first thing built, before anything is drawn.
+
+## 3. Seen from the passenger seat
+
+- **Date:** 17 November 2026
+- **Status:** Decided
+- **What prompted it:** Eleanor's first notes on the idea, brought over after the repository was set up, put the view in the passenger seat, with the thought of turning to see the driver. The docs had assumed the driver's seat.
+- **Decision:** The view is from the passenger seat. Someone else drives; you watch.
+- **Alternatives considered:** The driver's seat. Lost because it invites steering, which turns it into a driving game, and loses the driver as a character.
+- **What follows from it:** "Watch or drive" becomes "what can the passenger do". The driver becomes something to design (open question 5). The camera sits on the left of the car.
